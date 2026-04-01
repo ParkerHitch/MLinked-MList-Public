@@ -1,0 +1,4 @@
+# Build artifacts
+*.o
+maze_bench
+maze_bench_*
